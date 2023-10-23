@@ -1,6 +1,6 @@
 # Libft
 
-A brief description of your project.
+![norminette](https://github.com/0x216/libft/workflows/norminette/badge.svg)
 
 ## Table of Contents
 
