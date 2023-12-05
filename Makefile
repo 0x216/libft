@@ -15,9 +15,9 @@ all: $(NAME)
 $(NAME): ${OBJS}
 		${LIBC} ${NAME} ${OBJS}
 		
-#so:
-#	$(CC) -nostartfiles -fPIC $(CFLAGS) $(SRCS)
-#	gcc -nostartfiles -shared -o libft.so $(OBJS)
+so:
+	$(CC) -nostartfiles -fPIC $(CFLAGS) $(SRCS)
+	gcc -nostartfiles -shared -o libft.so $(OBJS)
 
 #bonus: ${OBJ_BONUS}
 #	${LIBC} ${NAME} ${OBJ_BONUS}

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mlysenko <mlysenko@student.42prague.com    +#+  +:+       +#+        */
+/*   By: mlysenko <mlysenko@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/12/03 22:00:23 by mlysenko          #+#    #+#             */
-/*   Updated: 2023/12/04 01:03:31 by mlysenko         ###   ########.fr       */
+/*   Created: 2023/12/05 10:00:50 by mlysenko          #+#    #+#             */
+/*   Updated: 2023/12/05 10:00:51 by mlysenko         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
